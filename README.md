@@ -22,6 +22,10 @@ The main goal is to classify user trust into two categories: high trust and low 
 
 ## Dataset Description
 
+Dataset Link: 
+
+https://www.kaggle.com/datasets/nicapotato/womens-ecommerce-clothing-reviews  
+
 The dataset includes:
 
 * Age
